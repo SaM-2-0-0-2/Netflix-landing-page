@@ -42,5 +42,5 @@ Example: `https://your-username.github.io/netflix-clone/`
 2. Open the project folder:
     ```bash
     cd netflix-clone
-3.Open index.html in your browser
+3. Open index.html in your browser
 *(Double click or use Live Server in VS Code)*
